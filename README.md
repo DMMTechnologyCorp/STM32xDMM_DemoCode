@@ -2,17 +2,17 @@
 This repository contains demo code for controlling DMM Technology Corporation's DYN4 servo drive with the Nucleo-F072RB microcontroller board. The code provides a basic skeleton for menu-based simple control over the motor system with features such as position and speed commands, a homing function, enable/disable drive, and drive status reset.
 
 # Features
-Position and Speed Commands: Control the position and speed of the motor.
-Homing Function: Return the motor to its home position. The home position is the inital motor position on power up.
-Enable/Disable Drive: Enable or disable the servo drive.
-Drive Reset: Reset the drive in the event of a fault.
+* Position and Speed Commands: Control the position and speed of the motor.
+* Homing Function: Return the motor to its home position. The home position is the inital motor position on power up.
+* Enable/Disable Drive: Enable or disable the servo drive.
+* Drive Reset: Reset the drive in the event of a fault.
 
 # Physical Requirements
-DMM Technology Corporation's DYN4 servo drive
-Nucleo-F072RB microcontroller board (https://www.st.com/en/evaluation-tools/nucleo-f072rb.html) Available through Mouser/Digikey
-STM32CubeIDE or compatible IDE
-USB cable for programming the Nucleo board
-All required cables for servo drive connection
+* DMM Technology Corporation's DYN4 servo drive
+* Nucleo-F072RB microcontroller board (https://www.st.com/en/evaluation-tools/nucleo-f072rb.html) Available through Mouser/Digikey
+* STM32CubeIDE or compatible IDE
+* USB cable for programming the Nucleo board
+* All required cables for servo drive connection
 
 # Setup Instructions
 * Download the required files from the release section and place them in a folder inside your workspace
