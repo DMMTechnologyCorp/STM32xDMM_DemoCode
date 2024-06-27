@@ -15,9 +15,9 @@ USB cable for programming the Nucleo board
 All required cables for servo drive connection
 
 # Setup Instructions
-1.) Download the required files from the release section and place them in a folder inside your workspace
-2.) Open the .crpoject file. This should launch all the required items for the project.
-3.) Start exploring!
+*Download the required files from the release section and place them in a folder inside your workspace
+*Open the .crpoject file. This should launch all the required items for the project.
+*Start exploring!
 
 # Code Purpose
 The purpose of this repository is to provide those who are interested in using DMM Servo drives with Nucleo microcontrollers or even STM embedded systems. This code is intended to provide the basics for users to expand on the achieve greater control over the servo system for various projects. Please see our YouTube channel for additional demos and feel free to browse our GitHub further.
