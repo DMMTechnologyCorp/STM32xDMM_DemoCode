@@ -22,3 +22,9 @@ All required cables for servo drive connection
 # Code Purpose
 The purpose of this repository is to provide those who are interested in using DMM Servo drives with Nucleo microcontrollers or even STM embedded systems. This code is intended to provide the basics for users to expand on the achieve greater control over the servo system for various projects. Please see our YouTube channel for additional demos and feel free to browse our GitHub further.
 
+YouTube:
+https://www.youtube.com/@dmmtechnologycorp.1610
+
+Website Catalogue/Sales Contact
+https://www.dmm-tech.com/
+
