@@ -9,7 +9,7 @@ Drive Reset: Reset the drive in the event of a fault.
 
 # Physical Requirements
 DMM Technology Corporation's DYN4 servo drive
-Nucleo-F072RB microcontroller board
+Nucleo-F072RB microcontroller board (https://www.st.com/en/evaluation-tools/nucleo-f072rb.html) Available through Mouser/Digikey
 STM32CubeIDE or compatible IDE
 USB cable for programming the Nucleo board
 All required cables for servo drive connection
